@@ -6,7 +6,7 @@
 </div>
 <ul>
 <li>🌍 I'm based in Luzon, Philippines</li>
-<li>🌐 See my <a href="https://lecelechavarre.github.io/Dev/" target="_blank">Personal Website</a></li>
+<li>🌐 See my <a href="https://lecelechavarre.github.io/Porfolio/" target="_blank">Personal Website</a></li>
 <li>✉️ You can contact me at <a href="mailto:lecelannharveyechavarre@gmail.com">lecelannharveyechavarre@gmail.com</a></li>
 </ul> 
 ---
@@ -15,13 +15,13 @@
 <!-- Skill Icons Grid -->
 <p align="left">
 <!-- Row 1 -->
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,mongodb,qt,opencv,eclipse,pycharm,figma,sqlite,androidstudio%22 height="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,pycharm,figma,sqlite,androidstudio%22 height="48" style="margin:8px;" />
 <br/>
 <!-- Row 2 -->
-<img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,java,jquery,laravel,php%22 height="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,java,jquery,kotlin,laravel,php%22 height="48" style="margin:8px;" />
 <br/>
 <!-- Row 3 -->
-<img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,git,github,vscode,codepen,obsidian%22 height="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,appwrite,git,github,linux,ubuntu,vscode,codepen,notion,obsidian%22 height="48" style="margin:8px;" />
 <br/>
 <!-- Row 54 -->
 <img src="https://img.shields.io/badge/WAMP%20Server-2b2b2b?style=for-the-badge&logo=windows&logoColor=white%22 height="40" style="margin:6px; border-radius:10px;" />
@@ -35,5 +35,4 @@
 <img alt="Lecel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lecelechavarre&show_icons=true&theme=radical%22 />
 &nbsp;
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecelechavarre&layout=compact&theme=radical%22 />
-
 </p>
