@@ -35,4 +35,5 @@
 <img alt="Lecel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lecelechavarre&show_icons=true&theme=radical%22 />
 &nbsp;
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecelechavarre&layout=compact&theme=radical%22 />
+
 </p>
