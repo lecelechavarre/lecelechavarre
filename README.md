@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="left">
 <h2 align="left">
-<img src="[https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=66B2FF&vCenter=true&width=500&lines=AI-Driven+Multi-Stack+Dev;Automation+Enthusiast%22)?font=Fira+Code&size=28&duration=2500&pause=800&am… alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=66B2FF&vCenter=true&width=500&lines=Frontend-Developer;Sleeper-Buildt%22" alt="Typing SVG" />
 </h2>
 </div>
 <ul>
@@ -36,4 +36,5 @@
 &nbsp;
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecelechavarre&layout=compact&theme=radical%22 />
 </p>
+
 
