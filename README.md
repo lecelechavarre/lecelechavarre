@@ -6,7 +6,7 @@
 </div>
 <ul>
 <li>🌍 I'm based in Luzon, Philippines</li>
-<li>🌐 See my <a href="https://lecelechavarre.github.io/Porfolio/" target="_blank">Personal Website</a></li>
+<li>🌐 See my <a href="https://lecelechavarre.github.io/Portfolio/" target="_blank">Personal Website</a></li>
 <li>✉️ You can contact me at <a href="mailto:lecelannharveyechavarre@gmail.com">lecelannharveyechavarre@gmail.com</a></li>
 </ul> 
 
@@ -37,6 +37,7 @@
 &nbsp;
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecelechavarre&layout=compact&theme=radical" />
 </p>
+
 
 
 
