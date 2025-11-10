@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=react,js,npm,html,htmx,css,bootstrap,docker,java,jquery,laravel,php,go" height="48" style="margin:8px;" />
 <br/>
 <!-- Row 3 -->
-<img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,git,github,linux,ubuntu,vscode,photoshop,illustrator,wordpress,typescript,wamp" height="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,git,github,linux,ubuntu,vscode,photoshop,illustrator,wordpress,typescript" height="48" style="margin:8px;" />
 <br/>
 
  
@@ -34,6 +34,7 @@
 &nbsp;
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecelechavarre&layout=compact&theme=radical" />
 </p>
+
 
 
 
