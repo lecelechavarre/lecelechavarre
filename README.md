@@ -31,6 +31,14 @@
 [![Lecel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lecelechavarre&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
+<div align="center">
+  
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-stats-alpha.vercel.app/api?username=lecelechavarre&cc=0d1117&tc=7d8590&ic=2f81f7&bc=30363d" alt="GitHub Stats" height="165" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
+  
+</div>
+
 
 
 
