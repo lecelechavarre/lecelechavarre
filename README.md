@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="left">
 <h2 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=66B2FF&vCenter=true&width=500&lines=Lecel+Ann+Harvey+Echavarre;Web+%26+Automation+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=66B2FF&vCenter=true&width=500&lines=Web+Automation+Developer+/+Information System+Security+Engineer;Lecel+Ann+Harvey+Echavarre" alt="Typing SVG" />
 </h2>
 </div>
 <ul>
@@ -38,6 +38,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
+
 
 
 
