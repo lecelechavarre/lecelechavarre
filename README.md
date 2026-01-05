@@ -6,7 +6,7 @@
 </div>
 <ul>
 <li>🌍 I'm based in Luzon, Philippines</li>
-<li>🌐 See my <a href="https://lecelechavarre.github.io/Portfolio/" target="_blank">Personal Website</a></li>
+<li>🌐 See my <a href="https://lecelechavarre.github.io/Dev/" target="_blank">Personal Website</a></li>
 <li>✉️ You can contact me at <a href="mailto:lecelannharveyechavarre@gmail.com">lecelannharveyechavarre@gmail.com</a></li>
 </ul> 
 
@@ -38,6 +38,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
+
 
 
 
