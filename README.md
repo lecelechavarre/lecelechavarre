@@ -14,7 +14,7 @@
 
 ## Experience
 <!-- Skill Icons Grid -->
-<p align="left">
+<p align="center">
 <!-- Row 1 -->
 <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,mongodb,qt,opencv,eclipse,pycharm,figma,sqlite,postgresql" height="48" style="margin:8px;" />
 <br/>
@@ -38,6 +38,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
+
 
 
 
