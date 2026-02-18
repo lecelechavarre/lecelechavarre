@@ -16,13 +16,13 @@
 <!-- Skill Icons Grid -->
 <p align="center">
 <!-- Row 1 -->
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,mongodb,qt,opencv,eclipse,pycharm,figma,sqlite,postgresql" height="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=python,flask,mongodb,qt,opencv,eclipse,pycharm,figma,sqlite" height="48" style="margin:8px;" />
 <br/>
 <!-- Row 2 -->
-<img src="https://skillicons.dev/icons?i=react,js,npm,html,htmx,css,bootstrap,docker,java,jquery,laravel,php,go" height="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=react,js,npm,html,htmx,css,bootstrap,docker,java,jquery,laravel,php" height="48" style="margin:8px;" />
 <br/>
 <!-- Row 3 -->
-<img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,git,github,linux,ubuntu,vscode,photoshop,illustrator,wordpress,typescript,prisma" height="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,git,github,vscode,photoshop,illustrator,typescript,prisma" height="48" style="margin:8px;" />
 <br/>
 </p>
 
@@ -38,6 +38,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
+
 
 
 
