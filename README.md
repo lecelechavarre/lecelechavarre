@@ -65,3 +65,18 @@
   <!-- Followers Badge -->
   <img src="https://img.shields.io/github/followers/lecelechavarre?label=Followers&color=ff6b6b&style=for-the-badge" alt="Followers" />
 </div>
+
+<hr/>
+
+<!-- ================= FUN STATS / ACTIVITY HIGHLIGHTS ================= -->
+<h3 align="center">🔥 Fun Stats & Activity Highlights</h3>
+<div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap: wrap;">
+  <!-- Streak Badge -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lecelechavarre&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <!-- Total Contributions -->
+  <img src="https://img.shields.io/badge/Contributions-This%20Year-blue?style=for-the-badge" alt="Contributions This Year" />
+  <!-- Most Active Repo -->
+  <img src="https://img.shields.io/badge/Most%20Active%20Repo-Dev%20Projects-orange?style=for-the-badge" alt="Most Active Repo" />
+  <!-- Pull Requests -->
+  <img src="https://img.shields.io/badge/PRs-Open%20%26%20Merged-green?style=for-the-badge" alt="Pull Requests" />
+</div>
