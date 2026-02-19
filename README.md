@@ -32,7 +32,6 @@
 <!-- ================= GITHUB ACTIVITY ================= -->
 <h3 align="center">📊 GitHub Activity</h3>
 <div align="center">
-  <!-- Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lecelechavarre&theme=github-compact" alt="Lecel's GitHub activity graph" />
   </a>
@@ -43,9 +42,7 @@
 <!-- ================= GITHUB STATS CARDS ================= -->
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap: wrap;">
-  <!-- General Stats -->
   <img src="https://github-stats-alpha.vercel.app/api?username=lecelechavarre&cc=0d1117&tc=7d8590&ic=2f81f7&bc=30363d" alt="GitHub Stats" height="165" />
-  <!-- Repos per Language -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lecelechavarre&theme=github_dark" alt="Repos per Language" height="165" />
 </div>
 
@@ -54,15 +51,10 @@
 <!-- ================= PROFILE BADGES ================= -->
 <h3 align="center">🏅 Profile Badges</h3>
 <div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap: wrap;">
-  <!-- Top Language Badge -->
   <img src="https://img.shields.io/github/languages/top/lecelechavarre?color=2b9348&style=for-the-badge" alt="Top Language" />
-  <!-- Total Commits Badge -->
   <img src="https://img.shields.io/github/commit-activity/m/lecelechavarre?color=0066cc&style=for-the-badge" alt="Commits" />
-  <!-- PRs Merged Badge -->
   <img src="https://img.shields.io/badge/PRs%20Merged-25-blue?style=for-the-badge" alt="PRs Merged" />
-  <!-- Total Repositories Badge -->
   <img src="https://img.shields.io/github/repos/lecelechavarre?color=f7b801&style=for-the-badge" alt="Total Repositories" />
-  <!-- Followers Badge -->
   <img src="https://img.shields.io/github/followers/lecelechavarre?label=Followers&color=ff6b6b&style=for-the-badge" alt="Followers" />
 </div>
 
@@ -71,12 +63,29 @@
 <!-- ================= FUN STATS / ACTIVITY HIGHLIGHTS ================= -->
 <h3 align="center">🔥 Fun Stats & Activity Highlights</h3>
 <div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap: wrap;">
-  <!-- Streak Badge -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lecelechavarre&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <!-- Total Contributions -->
   <img src="https://img.shields.io/badge/Contributions-This%20Year-blue?style=for-the-badge" alt="Contributions This Year" />
-  <!-- Most Active Repo -->
   <img src="https://img.shields.io/badge/Most%20Active%20Repo-Dev%20Projects-orange?style=for-the-badge" alt="Most Active Repo" />
-  <!-- Pull Requests -->
   <img src="https://img.shields.io/badge/PRs-Open%20%26%20Merged-green?style=for-the-badge" alt="Pull Requests" />
+</div>
+
+<hr/>
+
+<!-- ================= TECH STACK + PORTFOLIO HIGHLIGHTS ================= -->
+<h3 align="center">💻 Tech Stack & Portfolio Highlights</h3>
+<p align="center">Click on the badges to explore my top projects</p>
+<div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap: wrap;">
+  <!-- Example Project Badges -->
+  <a href="https://github.com/lecelechavarre/quiz-app" target="_blank">
+    <img src="https://img.shields.io/badge/Quiz%20App-React%20JS-blue?style=for-the-badge" alt="Quiz App" />
+  </a>
+  <a href="https://github.com/lecelechavarre/weather-app" target="_blank">
+    <img src="https://img.shields.io/badge/Weather%20App-React%20JS-lightblue?style=for-the-badge" alt="Weather App" />
+  </a>
+  <a href="https://github.com/lecelechavarre/roadmap-projects" target="_blank">
+    <img src="https://img.shields.io/badge/Roadmap%20Projects-Multi%20Lang-green?style=for-the-badge" alt="Roadmap Projects" />
+  </a>
+  <a href="https://github.com/lecelechavarre/iDRAC-monitor" target="_blank">
+    <img src="https://img.shields.io/badge/iDRAC%20Monitor-Python%20Flask-purple?style=for-the-badge" alt="iDRAC Monitor" />
+  </a>
 </div>
