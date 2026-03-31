@@ -19,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=python,flask,mongodb,qt,opencv,eclipse,pycharm,figma,sqlite,php,react" height="48" style="margin:8px;" />
 <br/>
 <!-- Row 2 -->
-<img src="https://skillicons.dev/icons?i=mysql,js,npm,html,htmx,css,bootstrap,docker,java,jquery,laravel" height="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=mysql,js,npm,html,htmx,css,bootstrap,docker,java,laravel" height="48" style="margin:8px;" />
 <br/>
 <!-- Row 3 -->
 <img src="https://skillicons.dev/icons?i=tailwind,vue,git,github,vscode,photoshop,illustrator,typescript,prisma,pycharm,vercel" height="48" style="margin:8px;" />
