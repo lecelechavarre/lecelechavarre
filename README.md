@@ -1,4 +1,4 @@
-<!-- HEADER --> 
+<!-- HEADER -->  
 <div align="left">
 <h2 align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=66B2FF&vCenter=true&width=500&lines=IS+Security+Engineer;Lecel+Ann+Harvey+Echavarre" alt="Typing SVG" />
